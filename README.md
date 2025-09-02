@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verde-blck
 - 👀 I’m interested in ... becoming a pro front end web dev
-- 🌱 I’m currently learning ... html
+- 🌱 I’m currently learning ... front-end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... +234-8093-52-8580 whatsapp
 
